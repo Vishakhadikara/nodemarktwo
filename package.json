@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vishakhadikara/nodemarktwo.git"
@@ -17,6 +15,7 @@
   },
   "homepage": "https://github.com/Vishakhadikara/nodemarktwo#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
   }
 }
